@@ -1,0 +1,106 @@
+[
+    {
+        "img":"https://uhnika.com.br/cdn/shop/files/calca-saia-alfaiataria-verde-bolso-confortavel_701x.progressive.jpg?v=1756499566",
+        "img2":"https://uhnika.com.br/cdn/shop/files/calca-saia-alfaiataria-verde-costas-confortavel_701x.progressive.jpg?v=1756499657",
+        "prdt":"Calça Saia Sustentável Feminina Cor Verde Marinho",
+        "tipo":"Roupas e acessórios sustentáveis",
+        "desc":"Calça saia azul marinho su",
+        "preco":329.90,
+        "entrega":"Frete GRÁTIS"
+    },
+
+    {
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThpefYrrBoD_I7R-ahLSHpYyJzTjSqLsUXFuaU6cqsC8DzwdcFwxXg_K-FX--vDW6aNB-aWgRIii4B9C77PPmNJjtn_O-hQjtXIsTrjFlHyprnSMuBy4FB",
+        "prdt":"Escova de Bamboo e Carvão Natural 1 Unidade",
+        "tipo":"Produtos de cuidado pessoal",
+        "desc":"Escova de dentes com bamboo e carvão natural",
+        "preco":109.88,
+        "entrega":"Frete GRÁTIS"
+    },
+    
+    {
+        "img":"https://casatoni.vteximg.com.br/arquivos/ids/161208-1000-1000/Tinta-Esmalte-Eucatex-ACQUA-Base-Agua-3-6-litros.jpg?v=637279459806930000",
+        "prdt":"Tinta Esmalte Eucatex ACQUA Base Água Acetinado 3,6L - Branco",
+        "tipo":"Itens para casa sustentáveis",
+        "desc":"Tinta à base de água sustentável para casas ecológicas e menos ofensivas ao meio ambiente e pessoas",
+        "preco":109.47,
+        "entrega":"Frete GRÁTIS"
+    },
+
+    {
+        "img":"https://uhnika.com.br/cdn/shop/files/IMG_8840_701x.progressive.jpg?v=1756499197",
+        "img2":"https://uhnika.com.br/cdn/shop/files/IMG_8838_701x.progressive.jpg?v=1756499198",
+        "prdt":"Blusa de Tricot Oversized",
+        "tipo":"Roupas e acessórios sustentáveis",
+        "desc":"Blusa de tricot sustentáveis",
+        "preco":299.90,
+        "entrega":"Frete GRÁTIS"
+    },
+    
+    {
+        "img":"https://alvapersonalcare.com.br/cdn/shop/files/Leve_Mais_Pague_Menos_25.png?format=webp&v=1749999670&width=800",
+        "prdt":"Condicionador Cabelos Normais e Secos - Lavanda e Baunilha Vegano 250ml Alva",
+        "tipo":"Produtos de cuidado pessoal",
+        "desc":"Condicionar natural de lavana e baunilha vegano, 250ml, sustentável e não ofensivo ao meio-ambiente",
+        "preco":54.40,
+        "entrega":"Frete GRÁTIS"
+    },
+
+    {
+        "img":"https://dimvanelli.com.br/cdn/shop/files/9142.06..jpg?v=1748632569&width=800",
+        "img2":"https://dimvanelli.com.br/cdn/shop/files/9142.066.jpg?v=1748632546&width=800",
+        "prdt":"Camiseta Azul Bamboo SPAN",
+        "tipo":"Roupas e acessórios sustentáveis",
+        "desc":"Camiseta azul sustentável feita de fibra de bamboo não ofensiva ao meio-ambiente",
+        "preco":249.00,
+        "entrega":"Frete GRÁTIS"
+    },
+    
+    {
+        "img":"https://minhacasasolar.fbitsstatic.net/img/p/painel-solar-monocristalino-695w-bifacial-trina-tsm-neg21c-20-83977/270483-1.jpg?w=400&h=400&v=202508130901",
+        "img2":"https://minhacasasolar.fbitsstatic.net/img/p/painel-solar-monocristalino-695w-bifacial-trina-tsm-neg21c-20-83977/270483-3.jpg?w=400&h=400&v=202508130902",
+        "prdt":"Painel Solar Monocristalino 695W Bifacial Trina - TSM NEG21C.20",
+        "tipo":"Tecnologia verde",
+        "desc":"Painel solar monocritalino bifacial trina sustentável, 132 celulas, potência máxima de 695 watts, 17,25 âmperes e 40,3 volts.",
+        "preco":709.00,
+        "entrega":"Frete GRÁTIS"
+    },
+    
+    {
+        "img":"https://m.media-amazon.com/images/I/51VqOx0OY1L._AC_SX679_.jpg",
+        "prdt":"Kit 10 Peças Colheres e Espátula Ecokitchen Utensílios Com Suporte, Produzido em Bambu 100% Ecológico",
+        "tipo":"Itens para casa sustentáveis",
+        "desc":"Kit de cozinha feitos de bamboo ecológico e sustentável, não danificam revestimentos anti-aderente e são inofensivos ao corpo humano e ao descarte",
+        "preco":39.90,
+        "entrega":"Frete GRÁTIS"
+    },   
+
+    {
+        "img":"https://m.media-amazon.com/images/I/51RN9-tJcIL._AC_SX569_.jpg",
+        "img2":"https://m.media-amazon.com/images/I/41HE4Zqx3XL._AC_SX569_.jpg",
+        "prdt":"Bolsa Ecológica de Algodão Cru 32x38cm Bege",
+        "tipo":"Roupas e acessórios sustentáveis",
+        "desc":"Ecobag sustentável feita de algodão cru de discarte e uso seguro ao meio meio ambiente",
+        "preco":16.90,
+        "entrega":"Frete GRÁTIS"
+    },
+
+    {
+        "img":"https://m.media-amazon.com/images/I/51ohWa4fa3L._AC_SX522_.jpg",
+        "prdt":"Shampoo Sólido Natural Neutro (Sem Aroma), Herbia",
+        "tipo":"Produtos de cuidado pessoal",
+        "desc":"Shampoo em barra sustentável natural sem cheiro e não ofensivos ao meio-ambiente",
+        "preco":33.88,
+        "entrega":"Frete GRÁTIS"
+    },
+
+    {
+        "img":"https://m.media-amazon.com/images/I/81xp5PTYf7L._AC_SX679_.jpg",
+        "prdt":"Embalixo Saco Lixo Sustentável 50 Litros",
+        "tipo":"Itens para casa sustentáveis",
+        "desc":"Sacos de lixo Embalixo sustentáveis de 50 litros, feitos de cana-de-açucar e aguentam até 10kg, 30 unidades",
+        "preco":30.51,
+        "entrega":"Frete GRÁTIS"
+    }
+    
+]

@@ -1,19 +1,18 @@
 [
     {
         "img":"https://uhnika.com.br/cdn/shop/files/calca-saia-alfaiataria-verde-bolso-confortavel_701x.progressive.jpg?v=1756499566",
-        "img2":"https://uhnika.com.br/cdn/shop/files/calca-saia-alfaiataria-verde-costas-confortavel_701x.progressive.jpg?v=1756499657",
         "prdt":"Calça Saia Sustentável Feminina Cor Verde Marinho",
         "tipo":"Roupas e acessórios sustentáveis",
-        "desc":"Calça saia azul marinho su",
-        "preco":329.90,
+        "desc":"Calça saia azul marinho sustentável feminina feita de materiais naturais que não prejudicam o meio ambiente",
+        "preco":329.99,
         "entrega":"Frete GRÁTIS"
     },
 
     {
-        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThpefYrrBoD_I7R-ahLSHpYyJzTjSqLsUXFuaU6cqsC8DzwdcFwxXg_K-FX--vDW6aNB-aWgRIii4B9C77PPmNJjtn_O-hQjtXIsTrjFlHyprnSMuBy4FB",
+        "img":"https://images.tcdn.com.br/img/img_prod/588991/escova_dental_natural_vegana_bamboo_e_cerdas_de_carvao_boni_1787_1_ca8591cdc89f6e8d2776490c186335f1.jpg",
         "prdt":"Escova de Bamboo e Carvão Natural 1 Unidade",
         "tipo":"Produtos de cuidado pessoal",
-        "desc":"Escova de dentes com bamboo e carvão natural",
+        "desc":"Escova de dentes com bamboo e carvão natural para livre descarte",
         "preco":109.88,
         "entrega":"Frete GRÁTIS"
     },
@@ -29,11 +28,10 @@
 
     {
         "img":"https://uhnika.com.br/cdn/shop/files/IMG_8840_701x.progressive.jpg?v=1756499197",
-        "img2":"https://uhnika.com.br/cdn/shop/files/IMG_8838_701x.progressive.jpg?v=1756499198",
         "prdt":"Blusa de Tricot Oversized",
         "tipo":"Roupas e acessórios sustentáveis",
-        "desc":"Blusa de tricot sustentáveis",
-        "preco":299.90,
+        "desc":"Blusa de tricot sustentável feminina, feita de fios sintéticos",
+        "preco":299.99,
         "entrega":"Frete GRÁTIS"
     },
     
@@ -42,27 +40,25 @@
         "prdt":"Condicionador Cabelos Normais e Secos - Lavanda e Baunilha Vegano 250ml Alva",
         "tipo":"Produtos de cuidado pessoal",
         "desc":"Condicionar natural de lavana e baunilha vegano, 250ml, sustentável e não ofensivo ao meio-ambiente",
-        "preco":54.40,
+        "preco":54.49,
         "entrega":"Frete GRÁTIS"
     },
 
     {
         "img":"https://dimvanelli.com.br/cdn/shop/files/9142.06..jpg?v=1748632569&width=800",
-        "img2":"https://dimvanelli.com.br/cdn/shop/files/9142.066.jpg?v=1748632546&width=800",
         "prdt":"Camiseta Azul Bamboo SPAN",
         "tipo":"Roupas e acessórios sustentáveis",
         "desc":"Camiseta azul sustentável feita de fibra de bamboo não ofensiva ao meio-ambiente",
-        "preco":249.00,
+        "preco":249.99,
         "entrega":"Frete GRÁTIS"
     },
     
     {
         "img":"https://minhacasasolar.fbitsstatic.net/img/p/painel-solar-monocristalino-695w-bifacial-trina-tsm-neg21c-20-83977/270483-1.jpg?w=400&h=400&v=202508130901",
-        "img2":"https://minhacasasolar.fbitsstatic.net/img/p/painel-solar-monocristalino-695w-bifacial-trina-tsm-neg21c-20-83977/270483-3.jpg?w=400&h=400&v=202508130902",
         "prdt":"Painel Solar Monocristalino 695W Bifacial Trina - TSM NEG21C.20",
         "tipo":"Tecnologia verde",
         "desc":"Painel solar monocritalino bifacial trina sustentável, 132 celulas, potência máxima de 695 watts, 17,25 âmperes e 40,3 volts.",
-        "preco":709.00,
+        "preco":709.99,
         "entrega":"Frete GRÁTIS"
     },
     
@@ -71,17 +67,16 @@
         "prdt":"Kit 10 Peças Colheres e Espátula Ecokitchen Utensílios Com Suporte, Produzido em Bambu 100% Ecológico",
         "tipo":"Itens para casa sustentáveis",
         "desc":"Kit de cozinha feitos de bamboo ecológico e sustentável, não danificam revestimentos anti-aderente e são inofensivos ao corpo humano e ao descarte",
-        "preco":39.90,
+        "preco":39.99,
         "entrega":"Frete GRÁTIS"
     },   
 
     {
         "img":"https://m.media-amazon.com/images/I/51RN9-tJcIL._AC_SX569_.jpg",
-        "img2":"https://m.media-amazon.com/images/I/41HE4Zqx3XL._AC_SX569_.jpg",
         "prdt":"Bolsa Ecológica de Algodão Cru 32x38cm Bege",
         "tipo":"Roupas e acessórios sustentáveis",
         "desc":"Ecobag sustentável feita de algodão cru de discarte e uso seguro ao meio meio ambiente",
-        "preco":16.90,
+        "preco":16.99,
         "entrega":"Frete GRÁTIS"
     },
 

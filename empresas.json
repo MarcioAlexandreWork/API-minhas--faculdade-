@@ -1,0 +1,971 @@
+[
+  {
+    "id": "1885783067",
+    "date_posted": "2025-10-13T13:34:45.7",
+    "date_created": "2025-10-13T13:38:45.782401",
+    "title": "Data Engineer",
+    "organization": "ICP Search | Tech, Media & Sport",
+    "organization_url": "https://uk.linkedin.com/company/icp-search",
+    "date_validthrough": null,
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "",
+          "addressCountry": "",
+          "addressLocality": "United Kingdom"
+        }
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://uk.linkedin.com/jobs/view/data-engineer-at-icp-search-tech-media-sport-4311458228",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "uk.linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHMdQIuCli6Xw/company-logo_100_100/company-logo_100_100/0/1657014819451/icp_search_logo?e=2147483647&v=beta&t=pls2vXC_sFyyqhNvDgDU6POUIK1sFXTRQNebhqqXSzI",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "United Kingdom"
+    ],
+    "locations_derived": [
+      "United Kingdom"
+    ],
+    "timezones_derived": [
+      "Europe/London"
+    ],
+    "lats_derived": [
+      54.7023545
+    ],
+    "lngs_derived": [
+      -3.2765753
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 30,
+    "linkedin_org_url": "http://www.icpsearch.com",
+    "linkedin_org_size": "11-50 employees",
+    "linkedin_org_slogan": "Executive search and talent solutions for organisations shaping the future of technology, media and sport.",
+    "linkedin_org_industry": "Staffing and Recruiting",
+    "linkedin_org_followers": 36187,
+    "linkedin_org_headquarters": "Brighton, Sussex",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2001",
+    "linkedin_org_specialties": [
+      ""
+    ],
+    "linkedin_org_locations": [
+      "Brighton, Sussex, GB"
+    ],
+    "linkedin_org_description": "Since 2001, we’ve helped ambitious organisations find the people who drive growth, innovation and performance across technology, media and sport.\n\nWe specialise in executive search, specialist recruitment, embedded recruitment (RaaS), leadership insight and culture design — working closely with our partners to build high-performing teams, wherever they are in the world.\n\nOur clients include private equity firms, global tech companies, rights holders, broadcasters, content creators and sports organisations, from clubs and leagues to federations, all redefining how technology, performance and everyday experiences come to life.\n\nIf you’re building something special, we’d love to support you.",
+    "linkedin_org_recruitment_agency_derived": true,
+    "seniority": "Not Applicable",
+    "directapply": true,
+    "linkedin_org_slug": "icp-search",
+    "no_jb_schema": true,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "ICP has been retained by a Football Club that have entered an exciting new era. Backed by investors with a rich history in the utilisation of data, the club has set ambitious goals. With a strong commitment to innovation, they are adopting a pioneering, data-driven approach across all areas of the club. This is a rare opportunity to play a key role in shaping the future of performance analysis and decision-making within professional football.\n\nAbout the Role\nWe are seeking a Data Engineer to design, build, and maintain the data infrastructure that underpins performance and operational insights. This role will be central to ensuring that coaches, scouts, and staff have accurate, timely, and actionable data to support decision-making.\nThe ideal candidate will have strong cloud experience, with proven ability in Python, API integration, and web scraping. They will be skilled in storing and organising data effectively, with the ultimate goal of enabling powerful visualisations and presentations for coaches and scouts.\n\nKey Responsibilities\nDevelop and manage data pipelines and systems to support both performance and operational analysis.\nIntegrate multiple data sources (wearables, video, performance platforms, and more) into centralised systems.\nCollaborate with analysts, coaches, and staff to ensure data is accurate, reliable, and accessible.\nEnsure compliance with data security, governance, and best-practice standards.\nProvide technical expertise to enhance the clubs data-driven decision-making processes.\n\nKey Skills & Experience\nStrong cloud platform experience (e.g., AWS, Azure, or GCP).\nProficiency in Python for data engineering tasks.\nHands-on experience with APIs, web scraping, and data storage solutions.\nUnderstanding of data modelling and pipeline management.\nExperience working with large and varied datasets (performance, video, tracking, wearable data a plus).\nKnowledge of data visualisation tools (e.g., Power BI, Tableau, or custom dashboards) desirable.\nExcellent problem-solving skills and ability to work collaboratively in a fast-paced environment.\n\nWhy Join the Team\nBe part of a forward-thinking, ambitious club with promotion aspirations.\nWork at the forefront of data innovation in football.\nContribute directly to on-field and off-field success by enabling data-led decisions.\nJoin a collaborative team with the support of data-focused investors driving meaningful change.\nShow more Show less"
+  },
+  {
+    "id": "1885779420",
+    "date_posted": "2025-10-13T13:30:41",
+    "date_created": "2025-10-13T13:33:38.852872",
+    "title": "Senior Palantir data Engineer (Onsite)",
+    "organization": "SRI Tech Solutions Inc.",
+    "organization_url": "https://www.linkedin.com/company/sri-tech-solutions-inc",
+    "date_validthrough": "2026-10-01T21:16:34",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Dallas",
+          "addressRegion": "TX",
+          "streetAddress": null
+        },
+        "latitude": 32.777977,
+        "longitude": -96.79621
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "CONTRACTOR"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/senior-palantir-data-engineer-onsite-at-sri-tech-solutions-inc-3086699863",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQH1WIdVvNmotg/company-logo_200_200/company-logo_200_200/0/1645812066403/sri_tech_solutions_inc_logo?e=2147483647&v=beta&t=f_c7t-uXMULnsPKL6uFD3cdM_HltPfcJAUVbLGRM2wY",
+    "cities_derived": [
+      "Dallas"
+    ],
+    "counties_derived": [
+      "Dallas County"
+    ],
+    "regions_derived": [
+      "Texas"
+    ],
+    "countries_derived": [
+      "United States"
+    ],
+    "locations_derived": [
+      "Dallas, Texas, United States"
+    ],
+    "timezones_derived": [
+      "America/Chicago"
+    ],
+    "lats_derived": [
+      32.7762719
+    ],
+    "lngs_derived": [
+      -96.7968559
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 265,
+    "linkedin_org_url": "http://www.sritechsolutions.com",
+    "linkedin_org_size": "501-1,000 employees",
+    "linkedin_org_slogan": "SRI Tech, a diversified HCM & IT Services Company. Providing solutions with a wide range of Software Engineers",
+    "linkedin_org_industry": "IT Services and IT Consulting",
+    "linkedin_org_followers": 41635,
+    "linkedin_org_headquarters": "Tampa, Florida",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2005",
+    "linkedin_org_specialties": [
+      "It staffing",
+      "Off shore Development ",
+      "It Services",
+      "Product Development",
+      "It Consulting",
+      "Web Development",
+      "Workforce Management ",
+      "System Integration",
+      "Enterprises Solutions",
+      "Human resources",
+      "Recruitment",
+      "and Recruiting"
+    ],
+    "linkedin_org_locations": [
+      "15310 Amberly, Drive Suite, 200, Tampa, Florida 33647, US",
+      "Marikavalasa Road, Behind Metro Cash & Carry Marikavalasa, Madhurawada, Visakhapatnam, Andhra Pradesh 530048, IN",
+      "Gachibowli Road, 1st Floor, Suite #16, Jayabheri Enclave, Hyderabad, Telangana 500032, IN",
+      "218 Lormont Blvd, Stoney Creek, Ontario L8J 0J9, CA",
+      "Avenida Peñuelas 106, Vista 2000, Querétaro, Querétaro 76140, MX"
+    ],
+    "linkedin_org_description": "SRI Tech is a solutions and resource placement enterprise that brings accomplishment and success to our clients. We have a full range of IT services that we deliver effectively and efficiently. We understand that all clients have a unique environment and that filling resources into projects is not such a simple task. This is why we work close in understanding our client’s environment to be able to integrate consultants onto its projects seamlessly and effectively. We offer solutions for all managed services, projects, and staffing. We also offer offshore development and products catered to client needs. SRI Tech is committed in providing the best business practices in the industry to help clients expand and compete in the market.\n\nSRI TECH SOLUTIONS is an Equal Employment Opportunity Employer M/F/V/D\n\nAccreditations:\n\n1. IMAGE Certified Company (ICE Mutual Agreement between Government and Employer).\n\n2. BBB (Better Business Bureau) Accredited Company with A+Rating.\n\n3. Recognized in America's fastest-growing private companies (INC 500).\n\n4. Ranked in Tampa Bay Business Journal (Fast 50).\n\n5. Recognized in Florida Fast 100 Companies.\n\n6. Ranked in Deloitte Technology Fast 500 Companies.\n\n7. Certification in Quality Management according to ISO 9001:2015 standards.\n\n8. IT Service Management certification based on ISO/IEC 20000-1:2018.\n\n9. Certification in Information Security Management following ISO/IEC 27001:2022 standards.\n",
+    "linkedin_org_recruitment_agency_derived": true,
+    "seniority": "Mid-Senior level",
+    "directapply": true,
+    "linkedin_org_slug": "sri-tech-solutions-inc",
+    "no_jb_schema": null,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "Job Description: \nPalantir data Engineer \nMonitor and respond to team chats and ticketing systems to address support issues in real-time.\nTroubleshoot and resolve issues related to:\nNew Data Ingestion\nUI/UX Changes\nData Quality and Integrity\nAdhoc Business Requests\nCollaborate with cross-functional teams including the Campaign Lifecycle Management Team, Customer Success Managers, Officer Support Teams, and data teams to ensure timely resolution of issues.\nDocument each issue including the solution to contribute to knowledge base.\nWhen bandwidth allows, provide support for the AI Agent Foundry initiative, contributing to the development and maintenance of AI-driven solutions.\nQualifications:\nExperience in developing robust ETLs and ensuring data quality\nStrong analytical and problem-solving skills\nAble to communicate with the business and technology teams\nVery collaborative and coachable\nAbility to pivot when needed\nExperience with data platforms, ingestion pipelines, or UI/UX troubleshooting is a plus\nExposure to GenAI, AI/ML tools or platforms is a bonus\nPreferred Skills:\nSQL, Snowflake, Python, Databricks, Azure\nPalantir is a bonus"
+  },
+  {
+    "id": "1885779397",
+    "date_posted": "2025-10-13T13:28:00",
+    "date_created": "2025-10-13T13:33:37.272802",
+    "title": "Data Engineer",
+    "organization": "Insight Global",
+    "organization_url": "https://www.linkedin.com/company/insight-global",
+    "date_validthrough": "2025-11-12T13:27:59",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Atlanta",
+          "addressRegion": "GA",
+          "streetAddress": null
+        },
+        "latitude": 33.761196,
+        "longitude": -84.39589
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "value": {
+        "@type": "QuantitativeValue",
+        "minValue": 100000,
+        "maxValue": 120000,
+        "unitText": "YEAR"
+      }
+    },
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-at-insight-global-4314018540",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/C560BAQGUNIyRZFaj0g/company-logo_200_200/company-logo_200_200/0/1657049194702/insight_global_logo?e=2147483647&v=beta&t=qgSY6S4vpAzMXSPhYkkhODSkHvK35KUnT1qfp9mqNA4",
+    "cities_derived": [
+      "Atlanta"
+    ],
+    "counties_derived": [
+      "Fulton County"
+    ],
+    "regions_derived": [
+      "Georgia"
+    ],
+    "countries_derived": [
+      "United States"
+    ],
+    "locations_derived": [
+      "Atlanta, Georgia, United States"
+    ],
+    "timezones_derived": [
+      "America/New_York"
+    ],
+    "lats_derived": [
+      33.7489924
+    ],
+    "lngs_derived": [
+      -84.3902644
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 16933,
+    "linkedin_org_url": "https://insightglobal.com",
+    "linkedin_org_size": "1,001-5,000 employees",
+    "linkedin_org_slogan": "A leading global staffing company dedicated to empowering people",
+    "linkedin_org_industry": "Staffing and Recruiting",
+    "linkedin_org_followers": 4490663,
+    "linkedin_org_headquarters": "Atlanta, Georgia",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2001",
+    "linkedin_org_specialties": [
+      "Professional Services",
+      "Business Services",
+      "Staffing",
+      "Talent Solutions",
+      "Technical Solutions",
+      "Recruiting",
+      "Global Capabilities",
+      "Engineering",
+      "Healthcare",
+      "IT",
+      "Nearshore Staffing",
+      "Offshore Staffing",
+      "Project Delivery",
+      "Accounting",
+      "Finance",
+      "Cloud Services",
+      "Artificial Intelligence (AI)",
+      "Data Services",
+      "IT Service Management",
+      "and Executive Search"
+    ],
+    "linkedin_org_locations": [
+      "1224 Hammond Drive, Suite 1500, Atlanta, Georgia 30346, US",
+      "100 King St W, Suite 5210, Toronto, Ontario M5X 1A9, CA",
+      "1901 6th Ave N, Suite 1610, Birmingham, Alabama 35203, US",
+      "2325 E Camelback Rd, Suite 800, Phoenix, Arizona 85016, US",
+      "5001 W Founders Way, Suite 100, Rogers, Arkansas 72758, US",
+      "609 Granville St, Suite 540, Vancouver, British Columbia V7Y 1H4, CA",
+      "401 W A St, Suite 2075, San Diego, California 92101, US",
+      "400 Capitol Mall, Suite 2640, Sacramento, California 95814, US",
+      "3161 Michelson Dr, Suite 1150, Irvine, California 92612, US",
+      "6601 Center Dr W, 5th Floor, Suite J, Los Angeles, California 90045, US",
+      "33 New Montgomery St, Suite 1700, San Francisco, California 94105, US",
+      "50 W San Fernando St, Suite 900, San Jose, California 95113, US",
+      "707 17th St, Suite 4100, Denver, Colorado 80202, US",
+      "185 Asylum St, City Place 2, 15th Floor, Hartford, Connecticut 06103, US",
+      "4 Star Point, Suite 302, Stamford, Connecticut 06902, US",
+      "1001 19th St N, Suite 1000, Arlington, Virginia 22209, US",
+      "5200 Town Center Circle, Boca Center, Tower 1, Suite 500, Boca Raton, Florida 33486, US",
+      "333 S Garland Ave, Suite 1200, Orlando, Florida 32801, US",
+      "3600 Midtown Dr, Suite 1000, Tampa, Florida 33607, US",
+      "5555 Gate Pkwy, Suite 220, Jacksonville, Florida 32256, US",
+      "333 SE 2nd Ave, Suite 3400, Miami, Florida 33131, US",
+      "353 N Clark St, 2200, Chicago, Illinois 60654, US",
+      "820 Massachusetts Ave, Suite 1360, Indianapolis, Indiana 46204, US",
+      "666 Walnut St, Suite 1600, Des Moines, Iowa 50309, US",
+      "101 South 5th Street, Suite 1800, Louisville, KY 40202, US",
+      "100 E Pratt St, Suite 2530, Baltimore, Maryland 21202, US",
+      "33 Arch St, Suite 1120, Boston, Massachusetts 02110, US",
+      "333 Bridge St NW, 13th Floor, Suite 1301, Grand Rapids, Michigan 49504, US",
+      "400 Renaissance Dr, Suite 3500, Detroit, Michigan 48243, US",
+      "1601 Utica Ave S, Suite 800, St Louis Park, Minnesota 55416, US",
+      "231 S Bemiston Ave, Suite 100, St Louis, Missouri 63105, US",
+      "1100 Walnut St, Suite 1250, Kansas City, Missouri 64106, US",
+      "6700 Mercy Rd, Suite 300, Omaha, Nebraska 68106, US",
+      "3800 Howard Hughes Pkwy, Suite 600, Las Vegas, Nevada 89169, US",
+      "1260 Headquarters Plaza, West Tower, 6th Floor, Morristown, New Jersey 07960, US",
+      "250 Park Ave, Suite 1100, New York, New York 10177, US",
+      "201 N Tryon St, Suite 2150, Charlotte, North Carolina 28202, US",
+      "4208 Six Forks Rd, Suite 840, Raleigh, North Carolina 27609, US",
+      "250 E 5th St, Suite 1400, Cincinnati, Ohio 45202, US",
+      "127 Public Sq, Suite 1500, Cleveland, Ohio 44114, US",
+      "210 Park Ave, Suite 1020, Oklahoma City, Oklahoma  73102, US",
+      "111 SW 5th Ave, Suite 3850, Portland, Oregon 97204, US",
+      "1 PPG Pl, Suite 2000, Pittsburgh, Pennsylvania 15222, US",
+      "1600 Market St, Suite 2900, Philadelphia, Pennsylvania 19103, US",
+      "200 N Warner Rd, Oak Hill Plaza, Suite 440, King of Prussia, Pennsylvania 19406, US",
+      "1222 Demonbreun St, Suite 1100, Nashville, Tennessee 37203, US",
+      "401 Congress Ave, Suite 1600, Austin, Texas 78701, US",
+      "2100 McKinney Ave, Suite 1400, Dallas, Texas 75201, US",
+      "111 W. Houston Street, Suite 2005, San Antonio, Texas 78205, US",
+      "2200 Post Oak Blvd, Suite 1225, Houston, Texas 77056, US",
+      "111 South Main, Suite 2250, Salt Lake City, Utah 84111, US",
+      "1021 E Cary St, Suite 1850, Richmond, Virginia 23219, US",
+      "4500 Main Street, Suite 210, Virginia Beach, Virginia 23462, US",
+      "800 Bellevue Way NE, Suite 400, Bellevue, Washington 98004, US",
+      "833 E Michigan St, Suite 650, Milwaukee, Wisconsin 53202, US",
+      "330 Rush Alley, Suite 850, Columbus, Ohio 43215, US",
+      "700 2nd Street SW Calgary, Suite 3100, Calgary , Alberta T2P 2W2, CA",
+      "997 Morrison Drive 6th Floor, suite 602, Charleston , South Carolina  29403, US",
+      "15 S Main St, Suite 500, Greenville , South Carolina  29601, US",
+      "6815 Poplar Ave, Germantown, Tennessee 38138, US",
+      "201 Saint Charles Ave, Suite 2405, New Orleans, Louisiana 70170, US",
+      "200 Westside Sq, Suite 500, Huntsville, Alabama 35801, US",
+      "17 Saint Helen's Place, 4th Floor, London, England EC3A 6DG, GB",
+      "3 W Garden St, Suite 217, Pensacola, Florida 32502, US",
+      "1100 W Idaho St, Suite 310, Boise, Idaho 83702, US",
+      "1110 Market St, Suite 215, Chattanooga, Tennessee 37402, US",
+      "640 Taylor St, 14th floor, Fort Worth, Texas 76102, US",
+      "99 Bank St, Suite 1002, Ottawa, Ontario K1P 6B9, CA",
+      "345 King St, Suite 202, Kitchener, Ontario N2G 1B8, CA"
+    ],
+    "linkedin_org_description": "Insight Global is an international professional services and staffing company specializing in delivering talent and technical solutions to Fortune 1000 companies across the IT, Non-IT, Healthcare, and Engineering industries. Fueled by staffing and talent experts, Evergreen, our professional services brand, brings technical advisors and culture consultants to help customers tackle their biggest challenges. With over 70 locations across North America, Europe, and Asia, and global staffing capabilities in 50+ countries, our teams of tech-enabled recruiters are dedicated to finding the right talent and technical solutions to help our customers thrive. At our core, we are dedicated to empowering people to do great things. That’s why we’re passionate about developing our people personally, professionally, and financially so they can be the light to the world around them. To find out more, visit www.insightglobal.com",
+    "linkedin_org_recruitment_agency_derived": true,
+    "seniority": "Mid-Senior level",
+    "directapply": true,
+    "linkedin_org_slug": "insight-global",
+    "no_jb_schema": null,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "Role: Data Engineer\nType: Direct Placement / Full-time\nLocation: Atlanta, GA 30313– in-office 2-3 days per week in Midtown\nCompensation: $120K base salary, up to 20% performance based annual bonus\n\nMust Haves:\nRobust SQL skills -- should be able to write code from scratch (not just modifying existing queries) including building an application in SQL.\nStrong experience working with large sets of complex data such as financial, sales, supply chain, logistics data, etc.\nHands-on experience with ETL, preferably with Azure Data Factory (ADF), but open to other comparable ETL tools.\nStrong experience with some form of BI tool such as Power BI, Tableau, Alteryx, etc.\nExtremely strong communication skills with proven experience in speaking to technical audiences and business leaders alike and influencing stakeholders and project partners to achieve results.\n\nPlusses:\nExperience as a data engineer or a software developer\nExperience working in a client facing environment where you've owned the delivery of a product from start to finish."
+  },
+  {
+    "id": "1885779362",
+    "date_posted": "2025-10-13T13:21:01",
+    "date_created": "2025-10-13T13:33:34.123996",
+    "title": "Data Engineer (Google cloud experience)",
+    "organization": "Stefanini Group",
+    "organization_url": "https://www.linkedin.com/company/stefanini",
+    "date_validthrough": "2025-11-12T13:21:01",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Southfield",
+          "addressRegion": "MI",
+          "streetAddress": null
+        },
+        "latitude": 42.480198,
+        "longitude": -83.241
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-google-cloud-experience-at-stefanini-group-4270324696",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQGxw8ejZKpVTA/company-logo_200_200/company-logo_200_200/0/1689014804966/stefanini_logo?e=2147483647&v=beta&t=hNMT5FS3YnT9nQqk_8uU0ocIM1kz7u5g8BDfW63D1S8",
+    "cities_derived": [
+      "Southfield"
+    ],
+    "counties_derived": [
+      "Oakland County"
+    ],
+    "regions_derived": [
+      "Michigan"
+    ],
+    "countries_derived": [
+      "United States"
+    ],
+    "locations_derived": [
+      "Southfield, Michigan, United States"
+    ],
+    "timezones_derived": [
+      "America/Detroit"
+    ],
+    "lats_derived": [
+      42.4733689
+    ],
+    "lngs_derived": [
+      -83.2218731
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 24734,
+    "linkedin_org_url": "https://stefanini.com",
+    "linkedin_org_size": "10,001+ employees",
+    "linkedin_org_slogan": null,
+    "linkedin_org_industry": "Business Consulting and Services",
+    "linkedin_org_followers": 395269,
+    "linkedin_org_headquarters": "São Paulo, SP",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "",
+    "linkedin_org_specialties": [
+      ""
+    ],
+    "linkedin_org_locations": [
+      "Avenida Eusébio Matoso 1375, São Paulo, SP 05423-905, BR"
+    ],
+    "linkedin_org_description": "Global Tech Consulting Company All in One. \n \nStefanini is a Brazilian multinational company with 37 years of experience and presence in 41 countries. With more than 35,000 employees, we co-create solutions for a better future, driving digital transformation with a focus on real results. \n \n\nWe operate in an integrated way through 7 specialized business units: Consulting (Technology and Business Agility), Analytics & AI, Banking & Payments, Cybersecurity, Manufacturing 4.0, and Digital Marketing. \n \n\nRecognized as the most internationalized technology company in Brazil, according to the Fundação Dom Cabral (FDC) ranking, Stefanini is global by essence, collaborative by nature, and strategic by vocation. It is also a pioneer in applying Artificial Intelligence to transform businesses through an end-to-end AI-First approach.",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Entry level",
+    "directapply": true,
+    "linkedin_org_slug": "stefanini",
+    "no_jb_schema": null,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "Company Description\nStefanini is a Brazilian multinational company with 37 years of experience, operating in 41 countries, and employing over 38,000 individuals. We specialize in driving digital transformation with a focus on tangible results. Our company operates through seven specialized business units: Consulting, Analytics & AI, Banking & Payments, Cybersecurity, Manufacturing 4.0, and Digital Marketing. Recognized as the most internationalized technology company in Brazil, we are pioneers in leveraging Artificial Intelligence to transform businesses.\n\nRole Description\nThis is a full-time, on-site role for a Data Engineer located in Southfield, MI. The Data Engineer will be responsible for designing, developing, and maintaining scalable data pipelines and systems. Day-to-day tasks include performing data modeling, creating and managing ETL processes, and building data warehousing solutions. Additionally, the Data Engineer will work closely with the analytics team to extract insights and support data-driven decision-making.\n\nQualifications\nProficiency in Data Engineering and Data Modeling\n2+ years experience with Google Cloud Platform (GCP)\nExperience with Extract Transform Load (ETL) processes and Data Warehousing\nStrong skills in Data Analytics\nExcellent problem-solving skills and attention to detail\nBachelor's degree in Computer Science, Information Technology, or related field\nStrong communication skills and the ability to work collaboratively\nPrevious experience in a similar role is a plus"
+  },
+  {
+    "id": "1885772892",
+    "date_posted": "2025-10-13T13:05:07.829",
+    "date_created": "2025-10-13T13:06:07.918569",
+    "title": "Data Engineer / Consultant",
+    "organization": "Noble Dynamic",
+    "organization_url": "https://uk.linkedin.com/company/noble-dynamic",
+    "date_validthrough": null,
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "",
+          "addressCountry": "",
+          "addressLocality": "United Kingdom"
+        }
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://uk.linkedin.com/jobs/view/data-engineer-consultant-at-noble-dynamic-4314121901",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "uk.linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHocqfC-96z4g/company-logo_100_100/company-logo_100_100/0/1661597463030?e=2147483647&v=beta&t=174iuIBf1DxJWq8SIrUjLFvxXsuBW8vsUsV0s9m3pnw",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "United Kingdom"
+    ],
+    "locations_derived": [
+      "United Kingdom"
+    ],
+    "timezones_derived": [
+      "Europe/London"
+    ],
+    "lats_derived": [
+      54.7023545
+    ],
+    "lngs_derived": [
+      -3.2765753
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 1,
+    "linkedin_org_url": "https://nobledynamic.com",
+    "linkedin_org_size": "1 employee",
+    "linkedin_org_slogan": "Data and cloud consultancy. Get real value and actionable insight out of your data",
+    "linkedin_org_industry": "Data Infrastructure and Analytics",
+    "linkedin_org_followers": 55,
+    "linkedin_org_headquarters": "Liverpool Street, England",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2022",
+    "linkedin_org_specialties": [
+      "Machine Learning",
+      "AI",
+      "Software",
+      "Strategy",
+      "and Data"
+    ],
+    "linkedin_org_locations": [
+      "86-90 Paul Street, Liverpool Street, England EC2A 4NE, GB"
+    ],
+    "linkedin_org_description": "Noble Dynamic is a data, cloud and software consultancy focused on helping businesses get real value and actionable insight out of data. No matter what type or where, we can help.\n\nStrategic partner with Journi, helping our customers to achieve enhanced insights and automation through the power of data, analytics and applied AI.\n\nServices include:\nData Science\nData Engineering\nComputer Vision\nDashboards and Visualisation\nData Strategy\nCloud",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Mid-Senior level",
+    "directapply": true,
+    "linkedin_org_slug": "noble-dynamic",
+    "no_jb_schema": true,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "We’re seeking a Data Engineer to join a growing consulting practice delivering modern data solutions on Microsoft Fabric. You’ll work alongside an experienced freelance data and software engineer across multiple client projects, helping design and implement scalable, efficient data platforms and analytics solutions.\nThe role offers flexibility - ideal for someone looking for part-time or full-time contract work in a dynamic, project-based environment.\n\nKey Responsibilities\nDesign, build, and maintain data pipelines using Microsoft Fabric / Data Factory\nDevelop and optimise data warehouse models (star schema, medallion, etc.)\nBuild and manage Power BI datasets, dataflows, and reports\nWork with diverse data sources (SQL Server, APIs, SharePoint, etc.)\nSupport data ingestion, transformation, and orchestration using metadata frameworks or Azure-native tooling\nImplement and uphold data quality, performance, and governance standards\nCollaborate on solution design and contribute to DevOps practices (Git, CI/CD pipelines)\nDocument data models, processes, and pipeline logic clearly and efficiently\n\nCore Skills & Experience\n3–5 years’ experience in a data engineering or BI development role\nStrong proficiency with: Microsoft Fabric or Azure Synapse / Data Factory, Power BI (data modelling, DAX, dataset optimisation), SQL and relational data modelling\nExperience building data pipelines and ETL/ELT processes\nFamiliarity with data warehousing concepts and best practices\nUnderstanding of Azure data services and cloud-based architectures\n\nNice to Have\nPython for automation and data transformations\nExperience with Spark (PySpark / Fabric notebooks / Databricks)\nExposure to Airflow or similar orchestration tools\nFamiliarity with DevOps pipelines (Azure DevOps, GitHub Actions, or CircleCI)\nExperience integrating AI / machine learning or predictive analytics into reporting\nConsulting or client-facing experience\nRelevant certifications\n\nAbout the Projects\nYou’ll contribute to data platform solutions for clients transitioning to Microsoft Fabric, replacing legacy reporting systems with modern, scalable architectures. Typical work includes building ELT pipelines, designing star-schema models, and developing robust Power BI reports to enable data-driven decision-making.\n\nIdeal Candidate\nYou’re someone who:\nEnjoys building practical, reliable data solutions\nWorks well independently but collaborates openly\nCommunicates clearly and takes ownership of deliverables\nHas a continuous learning mindset and curiosity about new tools and patterns\n\n\nShow more Show less"
+  },
+  {
+    "id": "1885772635",
+    "date_posted": "2025-10-13T13:01:41",
+    "date_created": "2025-10-13T13:05:36.536855",
+    "title": "Marketing Data Engineer",
+    "organization": "Bulk™",
+    "organization_url": "https://www.linkedin.com/company/bulkofficial",
+    "date_validthrough": "2025-12-06T16:14:33",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "GB",
+          "addressLocality": "London Area",
+          "addressRegion": null,
+          "streetAddress": null
+        },
+        "latitude": 51.51649,
+        "longitude": -0.128427
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://uk.linkedin.com/jobs/view/marketing-data-engineer-at-bulk%E2%84%A2-4309287231",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "uk.linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHovxza1vqnuw/company-logo_200_200/B4EZZtpMCNHYAI-/0/1745596236407/bulkofficial_logo?e=2147483647&v=beta&t=4l-CXtIHE4e_eU18IkZJqnhF1K1p8orgbNbRsNKMds4",
+    "cities_derived": [
+      "London"
+    ],
+    "counties_derived": [
+      "Greater London"
+    ],
+    "regions_derived": [
+      "England"
+    ],
+    "countries_derived": [
+      "United Kingdom"
+    ],
+    "locations_derived": [
+      "London, England, United Kingdom"
+    ],
+    "timezones_derived": [
+      "Europe/London"
+    ],
+    "lats_derived": [
+      51.5074456
+    ],
+    "lngs_derived": [
+      -0.1277653
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 299,
+    "linkedin_org_url": "https://www.bulk.com",
+    "linkedin_org_size": "201-500 employees",
+    "linkedin_org_slogan": null,
+    "linkedin_org_industry": "Wellness and Fitness Services",
+    "linkedin_org_followers": 32958,
+    "linkedin_org_headquarters": "London, England",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "",
+    "linkedin_org_specialties": [
+      "Sports Nutrition",
+      "Protein Shakes",
+      "High Protein Foods",
+      "Vitamins & Minerals",
+      "Health Food",
+      "Supplements",
+      "Sporting Goods",
+      "and Health & Beauty"
+    ],
+    "linkedin_org_locations": [
+      "1 Finsbury Avenue, London, England EC2M 2PF, GB",
+      "Unit 1, Gunfleet Business Park, Brunel Way, Colchester, Essex CO4 9QX, GB",
+      "ul. Łąkowa 23, Mirków, Mirków 55-095, PL"
+    ],
+    "linkedin_org_description": "Bulk™ is on an incredible journey, with a mission to become the only destination brand for active nutrition. \n\nWe are shaking up the sports nutrition industry through disruptive marketing campaigns that help people think differently about our brand.\n\nSince 2006, we’ve been dedicated to empowering every athlete and every person  with the right nutrition and inspiration they need to  set their goals, achieve them, and surpass them.\n\nWe believe that sport, health and fitness is for everyone, no matter who you are, what you do, how you do it, and a healthy lifestyle is a process that never truly stops.\n\nThat’s why we’ve committed ourselves to creating world-class and the very best in nutrition for every step of that process.",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Associate",
+    "directapply": false,
+    "linkedin_org_slug": "bulkofficial",
+    "no_jb_schema": null,
+    "external_apply_url": "https://careers.bulk.com/jobs/6549558-consumer-data-engineer?utm_source=LinkedIn",
+    "ats_duplicate": false,
+    "description_text": "#TEAMBULK ARE HIRING A CONSUMER DATA ENGINEER\n\nBulk™ is on an incredible journey, with a mission to move the business from a manufacturing-led retailer to a destination brand for active nutrition. We are shaking up the sports nutrition industry through disruptive marketing campaigns that help people think differently about our brand – and we want you to be a part of it!\n\nWe want passionate risk-takers. We want people that like to challenge our thinking. We want people that live and breathe digital and have an affinity to the world of nutrition, health, fitness, and sports.\n\nIN A NUTSHELL\n\nAs a Data Engineer in our Marketing Insights team, you will transform fragmented data into clean, reusable products across key domains like customer behavior, marketing, and product performance. You will help design scalable pipelines, build tools that enable teams to trust and activate data, and collaborate closely with Marketing, Product, and Analytics to drive Bulk’s growth.\nWe’re looking for a data engineer excited to shape the future of consumer data, from sourcing and modeling to delivery and analysis. Together, we set standards, champion quality, and build data products the business can rely on with confidence.\n\nYou’ll work on meaningful projects where data directly supports marketing, product decisions, and customer experience, while having the space to develop your skills beyond engineering - particularly in analytics, visualisation, and cross-functional presentation. As part of a collaborative and focused team, you’ll be supported in an environment that values clarity, ownership, and growth.\n\nWHAT WILL YOU BE DOING? \n\nData Pipeline Development\nDesign, build, and maintain batch and real-time data pipelines using tools like BigQuery, dbt, and Airflow.\nMonitor performance and reliability, and make improvements as needed.\nData Integration\nIngest and integrate core business data sources (i.e. Adobe CDP, Emarsys, Magento, Paid Media platforms) to the central data warehouse (BigQuery)\nSupport projects involving customer data unification, segmentation, and campaign data flow in Adobe CDP.\nData Quality and Governance\nSet up validation checks, resolve data quality issues, and maintain documentation\nPartner with the System Architect to align on governance standards and best practices.\nAnalytics and Visualisation Support\nCollaborate with analysts and marketers to support Tableau dashboards and reporting.\nContribute to analysis around customer segmentation, marketing performance, and other business needs.\nCollaborating with Teammates\nWork closely with teams across the business to understand data needs and use cases.\nHelp them access and interpret the data they need, while maintaining performance and reliability end-to-end.\n\nWHAT ARE WE LOOKING FOR? \n\nExperience (1–2 years): Proficient in SQL, Python, and API development, with a solid understanding of data structures and transformations.\nCloud & Data Engineering Skills: Experienced in data processing within cloud environments, preferably with exposure to Google Cloud Platform, dbt, and Airflow.\nAdaptable Problem-Solver: Comfortable navigating ambiguity, tackling loosely defined challenges, and thriving in autonomous team environments.\nData Modeling: Strong data modeling capabilities and a product-oriented approach to treating data as a core asset.\nGrowth-Oriented: Eager to further develop skills in Consumer analytics, reporting, and data visualization.\nCollaborator: Builds strong, positive relationships across both technical and business domains.\nCuriosity: an absolute must for any successful candidate. Ask questions, seek out opportunities, and don’t be afraid to take the initiative, roll up your sleeves, and solve problems yourself.\n\nWHAT ARE THE GAINS?\nMonthly Bulk Bank Benefits Allowance 🏦 including a subsidised Gym Membership 🏋️\nA day off to celebrate your Birthday 🎂\nPerkBox Subscription 👍\n60% discount on all Bulk™ products 💰\nFlexi Start 🕙\nAdditional Annual Leave (optional) 🌴\nTeammate Pension Scheme 💰\nLife Assurance 💟\nMedicash 👩 ⚕️\nA day off for Volunteering (optional) 🤗\nCycle to Work Scheme 🚲\nEnhanced Maternity & Paternity leave 🐣 and workplace nursery scheme 🧒\nBulk™ Pantry 🍴\nHappy Hour Drinks Fridge (Thursdays & Fridays) 🎉\nSummer Working Hours 🌞\n\nLOCATION: London\nHYBRID: 3 days in the office, 2 days working from home\n\nOUR COMMITMENT 🌈\n\nBulk™ is a place where employees have a voice fundamental to our success as a business. Building a diverse and inclusive team enables us to reach and connect with our global customers, from developing delicious recipes to how our brand is built and perceived.\n\nRegardless of age, disability, race, gender, religion, sexual orientation, education, neurodiversity or any protected characteristic, if you are a passionate risk-taker and eager to make a difference in sports nutrition, we want to hear from you. We know that a CV doesn’t begin to scratch the surface, and that the things that make you who you are could be a real game-changer for us. We are proud to be an equal opportunities employer."
+  },
+  {
+    "id": "1885771951",
+    "date_posted": "2025-10-13T12:59:12",
+    "date_created": "2025-10-13T13:04:43.47761",
+    "title": "Staff Data Engineer",
+    "organization": "Pragmatike",
+    "organization_url": "https://www.linkedin.com/company/pragmatikee",
+    "date_validthrough": "2025-11-12T12:59:11",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "GB",
+          "addressLocality": "London",
+          "addressRegion": null,
+          "streetAddress": null
+        },
+        "latitude": 51.506824,
+        "longitude": -0.12611847
+      }
+    ],
+    "location_type": "TELECOMMUTE",
+    "location_requirements_raw": [
+      {
+        "@type": "Country",
+        "name": "London, England, United Kingdom"
+      }
+    ],
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://uk.linkedin.com/jobs/view/staff-data-engineer-at-pragmatike-4314033137",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "uk.linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQE3Psl7I4KFdQ/company-logo_200_200/company-logo_200_200/0/1736269088036/pragmatikee_logo?e=2147483647&v=beta&t=AWL_IXyjzzZ0cP8QXIM_64G5vHcehYPp2y5RDJi5Ltw",
+    "cities_derived": [
+      "London"
+    ],
+    "counties_derived": [
+      "Greater London"
+    ],
+    "regions_derived": [
+      "England"
+    ],
+    "countries_derived": [
+      "United Kingdom"
+    ],
+    "locations_derived": [
+      "London, England, United Kingdom"
+    ],
+    "timezones_derived": [
+      "Europe/London"
+    ],
+    "lats_derived": [
+      51.5074456
+    ],
+    "lngs_derived": [
+      -0.1277653
+    ],
+    "remote_derived": true,
+    "linkedin_org_employees": 11,
+    "linkedin_org_url": "www.pragmatike.com",
+    "linkedin_org_size": "11-50 employees",
+    "linkedin_org_slogan": "Revolutionize your recruitment with a pragmatic approach",
+    "linkedin_org_industry": "IT Services and IT Consulting",
+    "linkedin_org_followers": null,
+    "linkedin_org_headquarters": "Paris",
+    "linkedin_org_type": "Partnership",
+    "linkedin_org_foundeddate": "2022",
+    "linkedin_org_specialties": [
+      ""
+    ],
+    "linkedin_org_locations": [
+      "Paris, FR",
+      "834 Lake St, San Francisco, California 94118, US"
+    ],
+    "linkedin_org_description": "Hire the top 1% of remote tech talent with Pragmatike global reach. Trusted by remote-first companies worldwide 🧬. \n\n→ Hiring process in 48 hours\n→ 50K+ tech specialists \n→ Operating in 60+ countries \n\nCome chat with us, whether you look for talent or new career opportunities :) ",
+    "linkedin_org_recruitment_agency_derived": true,
+    "seniority": "Not Applicable",
+    "directapply": false,
+    "linkedin_org_slug": "pragmatikee",
+    "no_jb_schema": null,
+    "external_apply_url": "https://www.careers-page.com/pragmatike/job/63W574R5?utm_medium=free_job_board&utm_source=linkedin",
+    "ats_duplicate": null,
+    "description_text": "Job Description\n\nLocation: Fully remote, EU timezone (CET ± 2 hours)\n\nStart date: ASAP\n\nLanguages: English is mandatory; French is a plus\n\nIndustry: Cloud Computing / Blockchain services European SaaS\n\nAt Pragmatike, we are expanding our Data Engineering team to support the rapid growth of our internal projects. We focus on building innovative solutions in Cloud Computing, Blockchain, and Artificial Intelligence, with a strong emphasis on scalability, performance, and data-driven decision-making. Joining us means working in a collaborative environment where your expertise and leadership directly shape the foundation of our data infrastructure and product capabilities.\n\nIf youre passionate about designing reliable data architectures, mentoring other engineers, and driving technical excellence in a fast-moving startup environment wed love to hear from you!\n\nResponsabilities\n\nDesign, build, and scale robust data architectures and ETL pipelines to support analytics, product insights, and AI-driven initiatives.\nLead data migration and modernization projects (e.g., transitioning from Tableau to Looker or other BI platforms).\nCollaborate with Product, Engineering, and Analytics teams to define data instrumentation, collection, and governance strategies.\nEnsure data quality, integrity, and availability across multiple domains (product, marketing, customer, finance, etc.).\nImplement and optimize data processing and storage solutions in the cloud (AWS, GCP, or Azure).\nBuild and maintain monitoring, alerting, and observability systems for data workflows.\nContribute to predictive and forecasting models, supporting advanced analytics and machine learning efforts.\nDefine and advocate for data engineering best practices, including CI/CD, testing, documentation, and code quality.\nMentor data engineers, review code, and help elevate the technical standards across the data team.\n\n\nRequired Qualifications\n\n7+ years of proven experience as a Data Engineer.\nStrong experience designing and maintaining scalable data infrastructures and complex data pipelines.\nExperience in startup or scale-up environments is a must.\nExpertise with SQL and strong understanding of data modeling and warehousing principles.\nHands-on experience with modern data stack tools (e.g., dbt, Airflow, Snowflake, BigQuery, Redshift, Databricks, etc.).\nExperience migrating BI or data tools (e.g., Tableau, Looker, or legacy modern stack).\nSolid understanding of Python for automation, data transformation, or machine learning applications.\nExcellent communication, leadership, and cross-functional collaboration skills.\nProficiency in English (written and spoken).\n\n\nPragmatike is dedicated to a fair, transparent, and inclusive recruitment process. We ensure that no applicant is discriminated against based on age, disability, gender, gender identity or expression, marital or civil partner status, pregnancy or maternity, race, religion or belief, sex, or sexual orientation.\n\nIn accordance with the General Data Protection Regulation (GDPR), your personal data will be processed lawfully, fairly, and securely, and used solely for recruitment purposes, including sharing it with our client(s) for employment consideration. You have the right to request access, correction, or deletion of your data at any time."
+  },
+  {
+    "id": "1885772876",
+    "date_posted": "2025-10-13T12:57:05.965",
+    "date_created": "2025-10-13T13:06:06.051896",
+    "title": "Senior Data Engineer",
+    "organization": "Alliance Technical Group",
+    "organization_url": "https://www.linkedin.com/company/alliance-technical-group",
+    "date_validthrough": null,
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "",
+          "addressCountry": "",
+          "addressLocality": "United States"
+        }
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-at-alliance-technical-group-4314135407",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQFdCFO14Ao50Q/company-logo_100_100/company-logo_100_100/0/1730390894758/alliance_technical_group_logo?e=2147483647&v=beta&t=hQpuTCmmAA5NaSV4aG5saKdbxBy7MNddmFyNQHL0rMc",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "United States"
+    ],
+    "locations_derived": [
+      "United States"
+    ],
+    "timezones_derived": [
+      "America/Chicago"
+    ],
+    "lats_derived": [
+      39.7837304
+    ],
+    "lngs_derived": [
+      -100.445882
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 990,
+    "linkedin_org_url": "http://www.alliancetg.com",
+    "linkedin_org_size": "1,001-5,000 employees",
+    "linkedin_org_slogan": "A new kind of environmental services company—powered by innovation, focused on service, and committed to client success.",
+    "linkedin_org_industry": "Environmental Services",
+    "linkedin_org_followers": 12374,
+    "linkedin_org_headquarters": "Decatur, Alabama",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2000",
+    "linkedin_org_specialties": [
+      "Stack Testing",
+      "Investigative Testing",
+      "Compliance Testing",
+      "Source Testing",
+      "Oil and Gas Analysis",
+      "Air Emissions Testing",
+      "NSPS",
+      "MACT",
+      "LDAR",
+      "RATA",
+      "Environmental Compliance",
+      "BWON",
+      "OGI",
+      "Emissions Monitoring",
+      "CEMS",
+      "and Environmental Consulting"
+    ],
+    "linkedin_org_locations": [
+      "214 Central Circle SW, Decatur, Alabama 35603, US",
+      "15 Maumelle Curve Court, Suite B, Maumelle, Arkansas 72113, US",
+      "911 TX-121, Lewisville, Texas, US",
+      "24 Hagerty Blvd., Unit 13, West Chester, PA 19382, US",
+      "617 Moon Clinton Road, Pittsburgh, PA 15108, US",
+      "931 Seaco Court, Deer Park, Texas 77536, US",
+      "1355 Sherman Road, Suite 300, Hiawatha, IA 52233, US",
+      "3855 S 500 W, Suite A, Salt Lake City, UT 84115, US",
+      "5530 Marshall St, Arvada, Colorado, US",
+      "5881 Artic Blvd., Suite 104, Anchorage , AK 99518, US"
+    ],
+    "linkedin_org_description": "Alliance is a new kind of environmental services company—powered by innovation, focused on service, and committed to client success.\n\nSince 2000, we have been solving the problems of environmental management and compliance for some of the foremost companies and brands in North America. From on-site testing and monitoring, to laboratory testing and regulatory strategy, we are pushing out the limits of what is possible. We help our clients achieve their business objectives while also supporting their sustainability goals.\n\nGet solutions for your most important and complex compliance challenges. From on-site assessments and monitoring to laboratory analyses for air, water, soil, and waste—Alliance can help you do it better.",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Not Applicable",
+    "directapply": false,
+    "linkedin_org_slug": "alliance-technical-group",
+    "no_jb_schema": true,
+    "external_apply_url": "https://recruiting2.ultipro.com/ALL1037ALNC/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/Opportunity/OpportunityDetail?opportunityId=27b156d3-5eb4-417c-a050-7ed0a8a7f9ff",
+    "ats_duplicate": false,
+    "description_text": "Alliance Technical Group is seeking an experienced Senior Data Engineer to design, build, and optimize the databases and data systems that power our business intelligence and analytics platforms. In this role, you will lead the creation of scalable pipelines, data models, and cloud-based architecture that ensures reliable, high-quality data across the organization.\nShow more Show less"
+  },
+  {
+    "id": "1885771145",
+    "date_posted": "2025-10-13T12:50:36.31",
+    "date_created": "2025-10-13T13:03:36.398153",
+    "title": "Senior Data Engineer (Remote - US)",
+    "organization": "Jobgether",
+    "organization_url": "https://be.linkedin.com/company/jobgether",
+    "date_validthrough": null,
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "",
+          "addressCountry": "",
+          "addressLocality": "United States"
+        }
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://www.linkedin.com/jobs/view/senior-data-engineer-remote-us-at-jobgether-4311462072",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF0wkBJGVGz4g/company-logo_100_100/B4EZm5iEh.HMAQ-/0/1759754340919/jobgether_logo?e=2147483647&v=beta&t=t66wh9ILvVHuPo0GiWTtmJ91ppiGctkTwlesSwMPCL4",
+    "cities_derived": null,
+    "counties_derived": null,
+    "regions_derived": null,
+    "countries_derived": [
+      "United States"
+    ],
+    "locations_derived": [
+      "United States"
+    ],
+    "timezones_derived": [
+      "America/Chicago"
+    ],
+    "lats_derived": [
+      39.7837304
+    ],
+    "lngs_derived": [
+      -100.445882
+    ],
+    "remote_derived": true,
+    "linkedin_org_employees": 188,
+    "linkedin_org_url": "https://www.jobgether.com",
+    "linkedin_org_size": "11-50 employees",
+    "linkedin_org_slogan": "The AI-driven global platform to hire and get hired, efficiently. The right talent. The right job. Instantly connected.\n",
+    "linkedin_org_industry": "Internet Marketplace Platforms",
+    "linkedin_org_followers": null,
+    "linkedin_org_headquarters": "Brussels",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2020",
+    "linkedin_org_specialties": [
+      ""
+    ],
+    "linkedin_org_locations": [
+      "Brussels, BE"
+    ],
+    "linkedin_org_description": "Job search is broken. Talents waste hours applying blindly, companies drown in irrelevant CVs.\nJobgether flips the model.\nWe’re an AI-powered career coach and matching platform helping people land remote and flexible jobs faster.\nJobgether designs your job search strategy, prepares you to stand out, and connects you only with roles that truly match.\nFinding a job isn’t about applying to hundreds of listings anymore, it’s about having the right strategy and visibility to attract the right opportunities.\n\nPurpose & Vision\nOur purpose is to make remote job search guided, fast, and effective, reducing frustration and wasted effort for both talents and employers.\nWe envision a world where careers are built with intention, not luck.\nWhere flexibility is the norm.\nWhere no talent remains invisible.\n\nJobgether exists to ensure that every professional has a real chance to find the right remote job.\n",
+    "linkedin_org_recruitment_agency_derived": false,
+    "seniority": "Mid-Senior level",
+    "directapply": true,
+    "linkedin_org_slug": "jobgether",
+    "no_jb_schema": true,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Senior Data Engineer in the United States.\n\nIn this role, you will design, develop, and optimize large-scale data pipelines and architectures to ensure reliable, high-quality, and timely data delivery for analytics and reporting. You will work closely with cross-functional teams, including DevSecOps and business intelligence, to implement complex data management solutions, real-time processing applications, and automated workflows. This role provides an opportunity to influence the organization's data strategy, drive efficiency, and implement best practices in data ingestion, transformation, validation, and orchestration. You will mentor junior engineers, provide guidance on technical solutions, and contribute to improving data reliability and performance across multiple environments. The position offers a collaborative, innovative, and flexible work environment with the ability to impact key business decisions through data-driven insights.\n\nAccountabilities:\n\nDevelop and operationalize robust data pipelines, including ingestion, transformation, validation, and orchestration\nDesign, implement, and maintain real-time data processing applications and high-performance data structures\nGuide and mentor data engineers in designing, testing, documenting, and operating scalable data solutions\nEnsure data quality, reliability, and efficiency across the organization's environments\nDevelop and maintain architectures using advanced programming languages and tools\nIdentify automation opportunities and implement solutions to optimize data workflows\nCollaborate with DevSecOps teams during continuous integration and deployment processes\n\n\nRequirements\n\nBachelor's degree in a quantitative or business field (e.g., Statistics, Mathematics, Engineering, Computer Science) or equivalent experience\n4-6 years of related experience in data engineering or similar roles\nStrong experience with ETL processes, SQL, Python, and data pipeline orchestration\nFamiliarity with business intelligence and visualization tools such as Power BI\nKnowledge of data quality practices, large-scale data management, and real-time processing\nStrong analytical, problem-solving, and communication skills\nAbility to work independently and collaboratively in a flexible work environment\n\n\nBenefits\n\nCompetitive salary range: $85,300 - $158,100 per year, adjusted based on skills and experience\nComprehensive health insurance, dental, and vision coverage\n401(k) and employee stock purchase plans\nTuition reimbursement and professional development opportunities\nPaid time off, holidays, and flexible work schedules (remote, hybrid, or office-based)\nInclusive and diverse work environment with opportunities for career growth and mentorship\n\nJobgether is a Talent Matching Platform that partners with companies worldwide to efficiently connect top talent with the right opportunities through AI-driven job matching.\n\nWhen you apply, your profile goes through our AI-powered screening process designed to identify top talent efficiently and fairly.\n\n🔍 Our AI evaluates your CV and LinkedIn profile thoroughly, analyzing your skills, experience, and achievements.\n\n📊 It compares your profile to the job's core requirements and past success factors to determine your match score.\n\n🎯 Based on this analysis, we automatically shortlist the 3 candidates with the highest match to the role.\n\n🧠 When necessary, our human team may perform an additional manual review to ensure no strong profile is missed.\n\nThe process is transparent, skills-based, and free of bias — focusing solely on your fit for the role. Once the shortlist is completed, we share it directly with the company that owns the job opening. The final decision and next steps (such as interviews or additional assessments) are then made by their internal hiring team.\n\nThank you for your interest!\n\nShow more Show less"
+  },
+  {
+    "id": "1885771848",
+    "date_posted": "2025-10-13T12:39:24",
+    "date_created": "2025-10-13T13:04:34.799916",
+    "title": "Junior Data Engineer (Energy Domain)",
+    "organization": "Vallum Associates",
+    "organization_url": "https://www.linkedin.com/company/vallum-associates-limited",
+    "date_validthrough": "2025-11-12T12:39:24",
+    "locations_raw": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "GB",
+          "addressLocality": "London Area",
+          "addressRegion": null,
+          "streetAddress": null
+        },
+        "latitude": 51.51649,
+        "longitude": -0.128427
+      }
+    ],
+    "location_type": null,
+    "location_requirements_raw": null,
+    "salary_raw": null,
+    "employment_type": [
+      "FULL_TIME"
+    ],
+    "url": "https://uk.linkedin.com/jobs/view/junior-data-engineer-energy-domain-at-vallum-associates-4314135240",
+    "source_type": "jobboard",
+    "source": "linkedin",
+    "source_domain": "uk.linkedin.com",
+    "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEaBd1yi1LHQ/company-logo_200_200/company-logo_200_200/0/1730807785665/vallum_associates_limited_logo?e=2147483647&v=beta&t=WiQKuD04iV3LPLTxOQp7dm9PVrEUvsBjPapEpwucjBQ",
+    "cities_derived": [
+      "London"
+    ],
+    "counties_derived": [
+      "Greater London"
+    ],
+    "regions_derived": [
+      "England"
+    ],
+    "countries_derived": [
+      "United Kingdom"
+    ],
+    "locations_derived": [
+      "London, England, United Kingdom"
+    ],
+    "timezones_derived": [
+      "Europe/London"
+    ],
+    "lats_derived": [
+      51.5074456
+    ],
+    "lngs_derived": [
+      -0.1277653
+    ],
+    "remote_derived": false,
+    "linkedin_org_employees": 58,
+    "linkedin_org_url": "https://www.vallumassociates.com/",
+    "linkedin_org_size": "11-50 employees",
+    "linkedin_org_slogan": "Offering talent acquisition across Energy & Commodities, Financial Services, Renewable & Engineering and Insurance.",
+    "linkedin_org_industry": "Staffing and Recruiting",
+    "linkedin_org_followers": 214307,
+    "linkedin_org_headquarters": "London, England",
+    "linkedin_org_type": "Privately Held",
+    "linkedin_org_foundeddate": "2015",
+    "linkedin_org_specialties": [
+      "Recruitment",
+      "coaching",
+      "business coaching",
+      "IT",
+      "Cloud",
+      "transformation",
+      "change",
+      "AI",
+      "data",
+      "digital",
+      "automation",
+      "Renewable Energy",
+      "Energy",
+      "Energy and Utilities",
+      "Utilities",
+      "Insurance",
+      "Engineering",
+      "Solar",
+      "Trading",
+      "Staffing",
+      "and Recruiting"
+    ],
+    "linkedin_org_locations": [
+      "10 Lower Thames Street, London, England EC3R 6AF, GB",
+      "501 Boylston St, Boston, Massachusetts 02116, US"
+    ],
+    "linkedin_org_description": "Vallum Associates offer best in class talent acquisition on a contingency, retained, or project basis. Through our dedicated sector consultants, our specialised brands have the knowledge and connections to provide tailored hiring and project services across industries:\n\n•\tEnergy and Utilities\n•\tEngineering and Renewables\n•\tInsurance\n•\tTechnology\n•\tMEP/FP Engineering\n•\tCommodities and Financial Services\n\nOur specialised industry and sector specific consultants are able to offer a personalised experience to fit your needs. Our unique associate consultative approach compliments our own consultant’s in-depth industry knowledge, allowing us to draw upon industry-wide connections to offer non- traditional approaches to delivering transformation and complete business growth globally.\n",
+    "linkedin_org_recruitment_agency_derived": true,
+    "seniority": "Associate",
+    "directapply": true,
+    "linkedin_org_slug": "vallum-associates-limited",
+    "no_jb_schema": null,
+    "external_apply_url": null,
+    "ats_duplicate": null,
+    "description_text": "Energy Domain is a must.\nUnder 7 years of experience only.\nPermanent.\n\nKey Responsibilities\nDesign, develop, and maintain data ingestion pipelines using open-source frameworks and tools\nBuild and optimise ETL/ELT processes to handle small to large-scale data processing requirements\nDevelop data models and schemas that support analytics, business intelligence and product needs\nMonitor, troubleshoot, and optimise data pipeline performance and reliability\nCollaborate with stakeholders, analysts and product team to understand data requirements\nImplement data quality checks and validation processes to ensure data integrity\nParticipate in architecture decisions and contribute to technical roadmap planning\n\nTechnical Skills:\nGreat SQL skills with experience in complex query optimization\nStrong Python programming skills with experience in data processing libraries (pandas, NumPy, Apache Spark)\nHands-on experience building and maintaining data ingestion pipelines\nProven track record of optimising queries, code, and system performance\nExperience with open-source data processing frameworks (Apache Spark, Apache Kafka, Apache Airflow)\nKnowledge of distributed computing concepts and big data technologies\nExperience with version control systems (Git) and CI/CD practices\nExperience with relational databases (PostgreSQL, MySQL or similar)\nExperience with containerization technologies (Docker, Kubernetes)\nExperience with data orchestration tools (Apache Airflow or Dagster)\nUnderstanding of data warehousing concepts and dimensional modelling\nUnderstanding of cloud platforms using infrastructure-as-code (IaC) approaches\nKnowledge of streaming data processing and real-time analytics\nExperience with data quality and monitoring tools\n\nPreferred Qualifications:\nBachelor's degree in Computer Science, Engineering, Mathematics, or related field\n2-5 years of experience in data engineering or related roles\nExperience working in the Energy industry"
+  }
+]
